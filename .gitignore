@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv.bak/
+*.so
+.Python
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logging
+logs/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+_build_metadata.py
+
+agent
+logs
