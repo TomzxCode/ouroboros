@@ -5,7 +5,7 @@ description = "Autonomous self-improving agent"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "anthropic>=0.75.0",
+    "anthropic>=1.8.0",
     "typer>=0.21.0",
     "structlog>=25.5.0",
 ]
